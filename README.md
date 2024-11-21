@@ -34,12 +34,9 @@ Built a face recognition-based attendance system using Python and the Eigenfaces
 - Improved attendance accuracy by 10%  
 
 
-## **Contact Information**  
+**Contact Information**  
 
-- **Email**: [your.email@example.com]  
-- **LinkedIn**: [linkedin.com/in/your-profile](#)  
-- **GitHub**: [github.com/your-profile](#)  
+**Email**: chandrasekharakk@yahoo.com
 
 Feel free to reach out to me.
 
-You can replace placeholder content (e.g., links) with actual details to customize it further.
