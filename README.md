@@ -12,7 +12,7 @@ I'm an **experienced Frontend Developer** with **4+ years** of expertise in buil
 - 🌱 Always learning and exploring **modern frontend technologies**
 - 👯 Looking to collaborate on **open-source React projects**
 - 💬 Ask me about **React, JavaScript, TypeScript, and UI/UX optimization**
-- 📫 How to reach me: **chandrasekhar.a@careernb.com**
+- 📫 How to reach me: **chandrasekharakk@yahoo.com**
 - 📱 Phone: **(816) 462-7807**
 
 ## 🛠️ Tech Stack
